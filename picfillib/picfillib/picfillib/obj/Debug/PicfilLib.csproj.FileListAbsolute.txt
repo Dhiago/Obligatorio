@@ -1,0 +1,24 @@
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\bin\Debug\PicfilLib.dll
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\bin\Debug\PicfilLib.pdb
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\obj\Debug\ResolveAssemblyReference.cache
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\obj\Debug\PicfilLib.FormBoard.resources
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\obj\Debug\PicfilLib.RecordMacroDialog.resources
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\obj\Debug\PicfilLib.csproj.GenerateResource.Cache
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\obj\Debug\PicfilLib.dll
+G:\UCUDAL\Marcela Rodríguez\POO\Planificacion\1_2010\ObligatorioSol_rar\Obligatorio-Sol\Backup\PicfilLib\obj\Debug\PicfilLib.pdb
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\bin\Debug\PicfilLib.dll
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\bin\Debug\PicfilLib.pdb
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\obj\Debug\PicfilLib.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\obj\Debug\PicfilLib.FormBoard.resources
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\obj\Debug\PicfilLib.RecordMacroDialog.resources
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\obj\Debug\PicfilLib.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\obj\Debug\PicfilLib.dll
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-sol\Backup\PicfilLib\obj\Debug\PicfilLib.pdb
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\bin\Debug\PicfilLib.dll
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\bin\Debug\PicfilLib.pdb
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\obj\Debug\PicfilLib.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\obj\Debug\PicfilLib.FormBoard.resources
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\obj\Debug\PicfilLib.RecordMacroDialog.resources
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\obj\Debug\PicfilLib.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\obj\Debug\PicfilLib.dll
+\\Mac\Home\Downloads\obligatorio y Ejercicios\obligatoriosol_rar\obligatorio-2016\Backup\PicfilLib\obj\Debug\PicfilLib.pdb
