@@ -1,0 +1,13 @@
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\bin\Debug\PicfilLib.dll
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\bin\Debug\PicfilLib.pdb
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.Properties.Resources.resources
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.GenerateResource.Cache
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Dhiago\Documents\UCU\POO\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Dhiago\Source\Repos\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Dhiago\Source\Repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Dhiago\Source\Repos\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
